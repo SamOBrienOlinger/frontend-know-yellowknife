@@ -14,6 +14,8 @@ A repository reserved for a React frontend for the Know Yellowknife educational 
 
 ## Getting started
 
+Git is required for the clone command below.
+
 Clone the workspace to inspect or develop it:
 
 ```bash
